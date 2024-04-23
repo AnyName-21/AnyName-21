@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnyName-21
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning in C Programming & Termux .
+- 🌱 I’m currently learning in Java Programming & Termux .
 - 💞️ I’m Want to be a Programmer. 
 - 📫 How can reach my destination..
 
